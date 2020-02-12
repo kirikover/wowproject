@@ -14,6 +14,6 @@ public class Main {
             array[i] = array[i] * 5;
             System.out.print(array[i] + " ");
         }
-        System.out.print("Hello!");
+        System.out.print("goodbye!");
 }
 }
